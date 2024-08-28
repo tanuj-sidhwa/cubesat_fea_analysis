@@ -18,7 +18,7 @@ ANSYS Analysis:
 Thermal Analysis:
 Simulation of thermal loads to ensure the CubeSat can withstand space conditions.
 Results indicate temperature distribution and thermal stresses.
-Modal Analysis:
+Modal Analysis:\n
 Performed to assess the natural frequencies and mode shapes of the CubeSat.
 Ensures structural integrity against vibrational loads during launch.
 Static Structural Analysis:
