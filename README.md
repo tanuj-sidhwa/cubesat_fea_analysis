@@ -16,7 +16,7 @@
 - Includes all structural components, mounting points, and payload housing.
 
 ### Material Selection
-- Materials chosen based on criteria such as thermal properties, strength-to-weight ratio, etc.
+- Materials were chosen based on criteria such as thermal properties, strength-to-weight ratio, etc.
 - List of materials used for different parts of the CubeSat.
 
 ### ANSYS Analysis
